@@ -1,0 +1,23 @@
+{
+  "name": "h5-rem",
+  "version": "1.0.1",
+  "main": "src/PageUtil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhongi/page-util.git"
+  },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
+  "author": "maikro <maikro@126.com>",
+  "license": "MIT",
+  "keywords": [
+    "page",
+    "util",
+    "pageUtil",
+    "page-util"
+  ]
+}
